@@ -354,7 +354,8 @@ function App() {
               </p>
 
               <a
-                href="#"
+                target="_blank"
+                href="https://docs.google.com/spreadsheets/d/1ryhjJJvMo6j27ZCn5PxnwebV9QE-gGqcaz_lD4agSrg/edit?gid=0#gid=0"
                 className="inline-block bg-gradient-to-r from-orange-500 to-orange-600 text-white font-semibold px-8 py-4 rounded-full hover:shadow-lg transform hover:scale-105 transition-all"
               >
                 Open Recordings Sheet
