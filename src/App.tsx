@@ -278,13 +278,15 @@ function App() {
                     </p>
                     <div className="flex flex-wrap gap-4">
                       <a
-                        href="#"
+                       target="_blank"
+                        href="https://docs.google.com/document/d/1l2pYxwHC8N41TdpxBN0u0NR3nrY95aLlqTznIVIrTAs/edit?tab=t.0#heading=h.8lufd6y4aqe9"
                         className="inline-block bg-gray-900 text-white px-6 py-3 rounded-lg hover:bg-gray-800 transition-colors"
                       >
                         Assignment Instructions
                       </a>
                       <a
-                        href="#"
+                        target="_blank"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSf9pxqhf9ULALTF29-r0vOdmr62EHDvq_MZrOAfUkoK0e3VCg/viewform"
                         className="inline-block bg-gradient-to-r from-orange-500 to-orange-600 text-white px-6 py-3 rounded-lg hover:shadow-lg transition-all"
                       >
                         Submission Link
