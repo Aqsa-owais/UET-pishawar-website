@@ -311,13 +311,15 @@ function App() {
                     </p>
                     <div className="flex flex-wrap gap-4">
                       <a
-                        href="#"
+                        target="_blank"
+                        href="https://docs.google.com/document/d/13uANufbrh09_N9bavkNh8B991wnF_WKarRbfMtzajUs/edit?tab=t.0#heading=h.sbw1yuk8iev8"
                         className="inline-block bg-gray-900 text-white px-6 py-3 rounded-lg hover:bg-gray-800 transition-colors"
                       >
                         Assignment Instructions
                       </a>
                       <a
-                        href="#"
+                        target="_blank"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSdaQ_20vn9SB5p13MXSqUKi1OWpwLfydTrfcxLhR3NOXXeuNQ/viewform"
                         className="inline-block bg-gradient-to-r from-orange-500 to-orange-600 text-white px-6 py-3 rounded-lg hover:shadow-lg transition-all"
                       >
                         Submission Link
